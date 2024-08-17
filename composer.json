@@ -1,0 +1,15 @@
+{
+    "name": "alex-agapitov/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AlexAgapitov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexAgapitov"
+        }
+    ],
+    "require": {}
+}
