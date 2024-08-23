@@ -11,5 +11,7 @@
             "name": "AlexAgapitov"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
